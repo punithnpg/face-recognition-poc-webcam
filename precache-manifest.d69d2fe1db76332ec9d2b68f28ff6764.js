@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "77ff3891b389b4786e9d",
-    "url": "https://punithnpg.github.io/csb-8inny/static/css/main.c6c12c84.chunk.css"
+    "revision": "bf53a356d0a37c43fbee",
+    "url": "https://punithnpg.github.io/csb-8inny/static/css/main.47b85a93.chunk.css"
   },
   {
-    "revision": "77ff3891b389b4786e9d",
-    "url": "https://punithnpg.github.io/csb-8inny/static/js/main.77ff3891.chunk.js"
+    "revision": "bf53a356d0a37c43fbee",
+    "url": "https://punithnpg.github.io/csb-8inny/static/js/main.bf53a356.chunk.js"
   },
   {
     "revision": "0426061aa4db9e3d0fc8",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://punithnpg.github.io/csb-8inny/static/js/runtime~main.dfd65d3e.js"
   },
   {
-    "revision": "5694ae4fbd7f57ac9d3b044d10c536a0",
+    "revision": "9caf9b3ac87130ed411d7632c3d56a18",
     "url": "https://punithnpg.github.io/csb-8inny/index.html"
   }
 ];

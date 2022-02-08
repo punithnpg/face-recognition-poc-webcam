@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://punithnpg.github.io/csb-8inny/precache-manifest.987e8ff0d7f25e237b772ba956dc722b.js"
+  "https://punithnpg.github.io/csb-8inny/precache-manifest.d69d2fe1db76332ec9d2b68f28ff6764.js"
 );
 
 workbox.clientsClaim();
